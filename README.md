@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on developing numerical methods for multiphase flows with particle tracking
-- 🌱 I’m currently learning fortran, C++
 - 📫 How to reach me: https://www.unibw.de/numerik or andreas.iberl@unibw.de
 <!--
 **AndreasIberl/AndreasIberl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
